@@ -32,3 +32,6 @@
 
 ## Solving a JavaScript crackme: JS SAFE 2.0 (web) - Google CTF 2018
 [![](https://img.youtube.com/vi/8yWUaqEcXr4/0.jpg)](https://www.youtube.com/watch?v=8yWUaqEcXr4)
+
+## JavaScript Programming All-in-One Tutorial Series (9 HOURS!)
+[![](https://img.youtube.com/vi/9M4XKi25I2M/0.jpg)](https://www.youtube.com/watch?v=9M4XKi25I2M)
