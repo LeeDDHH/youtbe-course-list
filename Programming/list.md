@@ -53,3 +53,9 @@
 
 ## 개발자 하는 이유 - 왜 하니?
 [![](https://img.youtube.com/vi/9oprkEz-TTQ/0.jpg)](https://www.youtube.com/watch?v=9oprkEz-TTQ)
+
+## (30) 디자이너 & 비전공자 사수없이 혼자 코딩 공부하는 방법
+[![](https://img.youtube.com/vi/zFWt7P9jhSA/0.jpg)](https://www.youtube.com/watch?v=zFWt7P9jhSA)
+
+## 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지
+[![](https://img.youtube.com/vi/V9AGvwPmnZU/0.jpg)](https://www.youtube.com/watch?v=V9AGvwPmnZU)
