@@ -47,3 +47,9 @@
 
 ## 코딩 잘하는법 (개발자답게 코딩하려면?)
 [![](https://img.youtube.com/vi/WF_bzlpaW0I/0.jpg)](https://www.youtube.com/watch?v=WF_bzlpaW0I)
+
+## Microservices + Events + Docker = A Perfect Trio
+[![](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo)
+
+## 개발자 하는 이유 - 왜 하니?
+[![](https://img.youtube.com/vi/9oprkEz-TTQ/0.jpg)](https://www.youtube.com/watch?v=9oprkEz-TTQ)

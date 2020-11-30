@@ -35,3 +35,12 @@
 
 ## JavaScript Programming All-in-One Tutorial Series (9 HOURS!)
 [![](https://img.youtube.com/vi/9M4XKi25I2M/0.jpg)](https://www.youtube.com/watch?v=9M4XKi25I2M)
+
+## 자바스크립트 기초 2. 함수 | 함수 정의, 호출, 그리고 콜백함수
+[![](https://img.youtube.com/vi/-cAPq25P-68/0.jpg)](https://www.youtube.com/watch?v=-cAPq25P-68)
+
+## 자바스크립트 기초 1. 변수 | primitive 타입과 object의 차이점
+[![](https://img.youtube.com/vi/__Zz17_5FRU/0.jpg)](https://www.youtube.com/watch?v=__Zz17_5FRU)
+
+## 프로그래밍 포기 하지 마세요 (자바스크립트 함수 기본편)
+[![](https://img.youtube.com/vi/PuG2VW18O1E/0.jpg)](https://www.youtube.com/watch?v=PuG2VW18O1E)
