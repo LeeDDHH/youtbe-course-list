@@ -35,3 +35,6 @@
 
 ## JavaScript Programming All-in-One Tutorial Series (9 HOURS!)
 [![](https://img.youtube.com/vi/9M4XKi25I2M/0.jpg)](https://www.youtube.com/watch?v=9M4XKi25I2M)
+
+## Page Animations With Javascript Tutorial
+[![](https://img.youtube.com/vi/AKmoccuRiN4/0.jpg)](https://www.youtube.com/watch?v=AKmoccuRiN4)

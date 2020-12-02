@@ -35,3 +35,6 @@
 
 ## Responsive Login & Registration Form Using HTML & CSS & JS | Sliding Sign In & Sign Up Form
 [![](https://img.youtube.com/vi/piG91X4sV2U/0.jpg)](https://www.youtube.com/watch?v=piG91X4sV2U)
+
+## Animated Hot Cup of Tea using Html & CSS only | CSS Animation Effects
+[![](https://img.youtube.com/vi/_jOqYe0eFqY/0.jpg)](https://www.youtube.com/watch?v=_jOqYe0eFqY)
